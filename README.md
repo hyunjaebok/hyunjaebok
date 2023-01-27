@@ -24,7 +24,7 @@
 
 ### Container Orchestration
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon EKS-#FF9900?style=for-the-badge&logo=Amazon EKS&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon EKS-FF9900?style=for-the-badge&logo=Amazon EKS&logoColor=white">
 
 ### IDE
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> <!--VSCode>
