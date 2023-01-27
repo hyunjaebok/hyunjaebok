@@ -93,7 +93,7 @@
 
 #### Monitoring
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white"> <!--Elasticsearch-->
-<img src="https://img.shields.io/badge/-005571?style=for-the-badge&logo=Logstash&logoColor=white"> <!--Logstash-->
+<img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=Logstash&logoColor=white"> <!--Logstash-->
 <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white"> <!--Kibana-->
 
 
