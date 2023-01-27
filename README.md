@@ -4,7 +4,7 @@
   
 <div align=center><h1> 🎓 Education 🎓 </h1></div>
 
-<div align=center> <h2>[ 2021.09 ~ 2021.12 - 전사적자원관리 교육 ]</h2></div>
+<div align=center> <h2>[  BespinGlobal Techcenter Cloud engineer training course - 2022.05 ~ 2022.12 ] ]</h2></div>
 
 ### - Learning of ERP(Enterprise Resource Planning)
 
