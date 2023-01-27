@@ -56,21 +56,21 @@
 <img src="https://img.shields.io/badge/Drawio-000000?style=for-the-badge&logo=Drawio&logoColor=white"> <!--Draw.io-->
 
 ## 👨‍💻 Project
-### Team Project
-### 오픈 소스를 활용한 숙박예약 웹 서비스 개발 및 운영
+### < Team Project >
+### 📌 오픈 소스를 활용한 숙박예약 웹 서비스 개발 및 운영
 ### - 비용 절감을 하기 위해 오픈 소스를 활용하여, AWS 와 Kubernetes 기반으로 CI/CD 파이프라인 구축한 DevOps 프로젝트
 
-### AWS 기반 Infra 구축
+### 📌 AWS 기반 Infra 구축
 ### - AWS 기반 Infra 구축과 3-Tier 웹 서비스 운영 프로젝트
 
-### Personal Project
-### Terraform을 활용한 AWS Infra 구축
+### < Personal Project >
+### 📌 Terraform을 활용한 AWS Infra 구축
 ### - Terraform을 활용한 AWS Infra 구축 및 3-Tier 웹 서비스 운영 프로젝트
 
-### AWS EKS 활용한 3-Tier 웹 서비스 운영
+### 📌 AWS EKS 활용한 3-Tier 웹 서비스 운영
 ### - AWS EKS을 활용한 3-Tier 웹 서비스 운영 및 AWS Infra 구축 프로젝트
 
-### Azure 기반 Infra 구축
+### 📌 Azure 기반 Infra 구축
 ### - ~~~~ 프로젝트
 
 </br></br>
