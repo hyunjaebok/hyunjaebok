@@ -7,7 +7,7 @@
 
 <h2>[ 1. BespinGlobal Techcenter Cloud engineer training course - 2022.05 ~ 2022.12 ] </h2></div>
 
-## Stack
+## 🛠 Stack
 ### CSP
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <!--AWS-->
 <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=for-the-badge&logo=Microsoft Azure&logoColor=white"> <!--Azure-->
@@ -55,7 +55,10 @@
 
 </br></br>
 
-<h1>  Project </h1></div>
+## 👨‍💻 Project
+
+
+</br></br>
 
 <h2>[ 2. Network Security Training Course - 2021.10 ~ 2022.01 ]</h2></div>
 
