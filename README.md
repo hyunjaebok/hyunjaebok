@@ -61,13 +61,9 @@
 
 <h2>[ 2. Network Security Training Course - 2021.10 ~ 2022.01 ]</h2></div>
 
-</br></br></br></br>
+## 🛠 Stack
 
-<div align=center><h1> 👨🏻‍💻 Project </h1></div>
+## 👨‍💻 Project
 
-
-</br></br></br></br>
-
-<div align=center><h1> 📝 Stacks </h1></div>
 
 
