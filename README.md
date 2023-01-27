@@ -51,11 +51,13 @@
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"> <!--Github-->
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"> <!--Slack-->
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <!--Notion-->
-<img src="https://img.shields.io/badge/Drawio-000000?style=for-the-badge&logo=Drawio&logoColor=white"> <!--Draw.io>
+<img src="https://img.shields.io/badge/Drawio-000000?style=for-the-badge&logo=Drawio&logoColor=white"> <!--Draw.io-->
 
 </br></br>
 
-<div align=center> <h2>[ 2. Network Security Training Course - 2021.10.12 ~ 2022.01.03 ]</h2></div>
+<h1>  Project </h1></div>
+
+<h2>[ 2. Network Security Training Course - 2021.10 ~ 2022.01 ]</h2></div>
 
 ### - Basic learning of Network, Linux, Aws, Azure, GCP, Docker, k8s, Terraform, etc..
 
@@ -63,21 +65,6 @@
 
 <div align=center><h1> 👨🏻‍💻 Project </h1></div>
 
-## 1. DB 캡스톤 디자인
-
-## 2. AWS를 활용한 3티어 웹 서비스
-
-## 3. NCP를 활용한 3-Tier 인프라
-
-## 4. GCP를 활용한 3-Tier 인프라
-
-## 5. GCP를 활용한 Kubernetes 인프라
-
-## 6. IaC를 활용한 AWS 인프라
-
-## 7. IaC를 활용한 GCP 2-Tier 인프라
-
-## 8. Cloud Native 기반 MSA 웹 서비스
 
 </br></br></br></br>
 
