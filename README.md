@@ -55,6 +55,8 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <!--Notion-->
 <img src="https://img.shields.io/badge/Drawio-000000?style=for-the-badge&logo=Drawio&logoColor=white"> <!--Draw.io-->
 
+</br>
+
 ## 👨‍💻 Project
 ### < Team Project >
 ### 📌 오픈 소스를 활용한 숙박예약 웹 서비스 개발 및 운영
@@ -98,10 +100,12 @@
 <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=Logstash&logoColor=white"> <!--Logstash-->
 <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white"> <!--Kibana-->
 
+#### NIPS & NIDS
+<img src="https://img.shields.io/badge/Snort-000000?style=for-the-badge&logo=Snort&logoColor=white"> <!--Snort-->
+
+</br>
 
 ## 👨‍💻 Project
 ### < Team Project >
 ### 📌 ~~~~
 ### - ~~~ 프로젝트
-
-
