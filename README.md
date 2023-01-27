@@ -82,8 +82,10 @@
 
 ## 🛠 Stack
 #### OS
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"> <!--Linux-->
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"> <!--Windows-->
+<img src="https://img.shields.io/badge/Kali Linux-557C94?style=for-the-badge&logo=Kali Linux&logoColor=white"> <!--Kali Linux-->
+<img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white"> <!--CentOS-->
+<img src="https://img.shields.io/badge/Ubuntu-557C94?style=for-the-badge&logo=Ubuntu&logoColor=white"> <!--Ubuntu-->
+<img src="https://img.shields.io/badge/Windows-E95420?style=for-the-badge&logo=Windows&logoColor=white"> <!--Windows-->
 
 #### Container
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <!--Docker-->
