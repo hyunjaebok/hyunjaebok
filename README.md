@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <!--AWS-->
 <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=for-the-badge&logo=Microsoft Azure&logoColor=white"> <!--Azure-->
 
-#### **OS**
+#### OS
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"> <!--Linux-->
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"> <!--Windows-->
 
@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> <!--Jenkins-->
 <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=Argo&logoColor=white"> <!--ArgoCD-->
 
-##### Monitoring
+#### Monitoring
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"> <!--Prometheus-->
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white"> <!--Grafana-->
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white"> <!--Elasticsearch-->
@@ -81,6 +81,21 @@
 <h2>[ 2. Network Security Training Course - 2021.10 ~ 2022.01 ]</h2></div>
 
 ## 🛠 Stack
+#### OS
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"> <!--Linux-->
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"> <!--Windows-->
+
+#### Container
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <!--Docker-->
+
+#### Container Orchestration
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"> <!--K8S-->
+
+#### Monitoring
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white"> <!--Elasticsearch-->
+<img src="https://img.shields.io/badge/-005571?style=for-the-badge&logo=Logstash&logoColor=white"> <!--Logstash-->
+<img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white"> <!--Kibana-->
+
 
 ## 👨‍💻 Project
 ### < Team Project >
