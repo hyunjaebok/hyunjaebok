@@ -6,8 +6,7 @@
 <div align=center><h1> 🎓 Education 🎓 </h1></div>
 
 <h2>[ 1. BespinGlobal Techcenter Cloud engineer training course - 2022.05 ~ 2022.12 ] </h2>
-
-
+### <b><a href="https://github.com/hyunjaebok/BespinGlobal-Techcenter-Cloud-engineer-training-course">- ~~</a></b>
 
 </br></br>
 
