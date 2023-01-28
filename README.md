@@ -57,7 +57,8 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <!--Notion-->
 <img src="https://img.shields.io/badge/Drawio-000000?style=for-the-badge&logo=Drawio&logoColor=white"> <!--Draw.io-->
 
- 
+</br>
+
 <h2> 🎓 Education </h2></div>
 
 ## [ 1. BespinGlobal Techcenter Cloud engineer training course ]
@@ -82,6 +83,7 @@
 
 #### 📌 Azure 기반 Infra 구축
 #### - ~~~~ 프로젝트
+
 </br>
 
 ## [ 2. Network Security Training Course ]</h2></div>
