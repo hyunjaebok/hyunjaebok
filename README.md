@@ -62,7 +62,11 @@
 <h2> 🎓 Education </h2></div>
 
 ## [ 1. BespinGlobal Techcenter Cloud engineer training course ]
-### <b><a href="https://github.com/hyunjaebok/BespinGlobal-Techcenter-Cloud-engineer-training-course">- Stack & Project</a></b>
+### - 2022.05 ~ 2022.12
+### - Basic learning of Network, Linux, Aws, Azure, GCP, Docker, k8s, Terraform, etc..
+
+</br>
+
 ### 👨‍💻 Project
 #### < Team Project >
 #### 📌 오픈 소스를 활용한 숙박예약 웹 서비스 개발 및 운영
@@ -87,6 +91,10 @@
 </br>
 
 ## [ 2. Network Security Training Course ]</h2></div>
+#### - 2021.10 ~ 2022.01
+
+</br>
+
 ### 👨‍💻 Project
 #### < Team Project >
 #### 📌 ELK를 이용한 웹 해킹 로그 패턴 분석과 시각화
