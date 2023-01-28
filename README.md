@@ -3,7 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=250&section=header&text=Jaebok%20Hyun&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62) </div> 
 
-<div align=center><h2> 🛠 Stack 🛠 </h2></div>
+<h2> 🛠 Stack </h2></div>
 
 #### CSP
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <!--AWS-->
@@ -58,7 +58,7 @@
 <img src="https://img.shields.io/badge/Drawio-000000?style=for-the-badge&logo=Drawio&logoColor=white"> <!--Draw.io-->
 
  
-<div align=center><h2> 🎓 Education 🎓 </h2></div>
+<h2> 🎓 Education </h2></div>
 
 ## [ 1. BespinGlobal Techcenter Cloud engineer training course ]
 ### <b><a href="https://github.com/hyunjaebok/BespinGlobal-Techcenter-Cloud-engineer-training-course">- Stack & Project</a></b>
