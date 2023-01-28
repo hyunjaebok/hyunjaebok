@@ -87,4 +87,7 @@
 </br>
 
 ## [ 2. Network Security Training Course ]</h2></div>
-### <b><a href="https://github.com/hyunjaebok/Network-Security-Training-Course">- Stack & project</a></b>
+### 👨‍💻 Project
+#### < Team Project >
+#### 📌 ELK를 이용한 웹 해킹 로그 패턴 분석과 시각화
+#### - Snort를 이용한 로그 탐지 및 ELK를 이용한 웹 해킹 로그 패턴 분석과 시각화 프로젝트
