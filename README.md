@@ -91,5 +91,3 @@
 <img src="https://img.shields.io/badge/Drawio-000000?style=flat-square&logo=Drawio&logoColor=white"> <!--Draw.io-->
 
 ---
-
-<div align=center> ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=250&section=footer) </div>
