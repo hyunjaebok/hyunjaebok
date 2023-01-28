@@ -62,8 +62,8 @@
 <h2> 🎓 Education </h2></div>
 
 ## [ 1. BespinGlobal Techcenter Cloud engineer training course ]
-### - 2022.05 ~ 2022.12
-### - Basic learning of Network, Linux, Aws, Azure, GCP, Docker, k8s, Terraform, etc..
+#### - 2022.05 ~ 2022.12
+#### - Basic learning of Network, Linux, Aws, Azure, GCP, Docker, k8s, Terraform, etc..
 
 </br>
 
