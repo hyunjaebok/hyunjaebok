@@ -4,12 +4,39 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=250&section=header&text=Jaebok%20Hyun&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62) </div> 
 
-<h2> 🛠 Stack </h2>
+<h1> 🎓 Education </h1>
 
+## [ 1. BespinGlobal Techcenter Cloud engineer training course ]
+### - 2022.05 ~ 2022.12
+### - Basic learning of Network, Linux, Aws, Azure, GCP, Docker, k8s, Terraform, etc..
+
+### 📋 Team Project
+>#### 📌 오픈 소스를 활용한 숙박예약 웹 서비스 개발 및 운영
+>#### - 비용 절감을 하기 위해 오픈 소스를 활용하여, AWS 와 Kubernetes 기반으로 CI/CD 파이프라인 구축한 DevOps 프로젝트
+
+>#### 📌 AWS 기반 Infra 구축
+>#### - AWS 기반 Infra 구축과 3-Tier 웹 서비스 운영 프로젝트
+
+### 📋 Personal Project
+>#### 📌 Terraform을 활용한 AWS Infra 구축
+>#### - Terraform을 활용한 AWS Infra 구축 및 3-Tier 웹 서비스 운영 프로젝트
+
+>#### 📌 AWS EKS 활용한 3-Tier 웹 서비스 운영
+>#### - AWS EKS을 활용한 3-Tier 웹 서비스 운영 및 AWS Infra 구축 프로젝트
+
+>#### 📌 Azure 기반 Infra 구축
+>#### - ~~~~ 프로젝트
+
+## [ 2. Network Security Training Course ]</h2>
+### - 2021.10 ~ 2022.01
+
+### 📋 Team Project
+>#### 📌 ELK를 이용한 웹 해킹 로그 패턴 분석과 시각화
+>#### - Snort를 이용한 로그 탐지 및 ELK를 이용한 웹 해킹 로그 패턴 분석과 시각화 프로젝트
 
 </br>
 
-<h2> 🛠 Stack </h2>
+<h1> 🛠 Stack </h1>
 
 ### CSP
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"> <!--AWS--> 
@@ -63,45 +90,4 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"> <!--Notion-->
 <img src="https://img.shields.io/badge/Drawio-000000?style=flat-square&logo=Drawio&logoColor=white"> <!--Draw.io-->
 
-</br>
-
-<h2> 🎓 Education </h2>
-
-## [ 1. BespinGlobal Techcenter Cloud engineer training course ]
-#### - 2022.05 ~ 2022.12
-#### - Basic learning of Network, Linux, Aws, Azure, GCP, Docker, k8s, Terraform, etc..
-
-</br>
-
-### 👨‍💻 Project
-#### < Team Project >
-#### 📌 오픈 소스를 활용한 숙박예약 웹 서비스 개발 및 운영
-#### - 비용 절감을 하기 위해 오픈 소스를 활용하여, AWS 와 Kubernetes 기반으로 CI/CD 파이프라인 구축한 DevOps 프로젝트
-#### <b><a href="https://github.com/bbyu2/ABCbit"></a></b>
-
-#### 📌 AWS 기반 Infra 구축
-#### - AWS 기반 Infra 구축과 3-Tier 웹 서비스 운영 프로젝트
-
-</br>
-
-#### < Personal Project >
-#### 📌 Terraform을 활용한 AWS Infra 구축
-#### - Terraform을 활용한 AWS Infra 구축 및 3-Tier 웹 서비스 운영 프로젝트
-
-#### 📌 AWS EKS 활용한 3-Tier 웹 서비스 운영
-#### - AWS EKS을 활용한 3-Tier 웹 서비스 운영 및 AWS Infra 구축 프로젝트
-
-#### 📌 Azure 기반 Infra 구축
-#### - ~~~~ 프로젝트
-
-</br>
-
-## [ 2. Network Security Training Course ]</h2>
-#### - 2021.10 ~ 2022.01
-
-</br>
-
-### 👨‍💻 Project
-#### < Team Project >
-#### 📌 ELK를 이용한 웹 해킹 로그 패턴 분석과 시각화
-#### - Snort를 이용한 로그 탐지 및 ELK를 이용한 웹 해킹 로그 패턴 분석과 시각화 프로젝트
+---
