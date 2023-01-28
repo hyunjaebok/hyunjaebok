@@ -3,7 +3,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=250&section=header&text=Jaebok%20Hyun&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62) </div> 
 
-<h2> 🛠 Stack </h2></div>
+<h2> 🛠 Stack </h2>
+
+
+</br>
+
+<h2> 🛠 Stack </h2>
 
 #### CSP
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <!--AWS-->
@@ -59,7 +64,7 @@
 
 </br>
 
-<h2> 🎓 Education </h2></div>
+<h2> 🎓 Education </h2>
 
 ## [ 1. BespinGlobal Techcenter Cloud engineer training course ]
 #### - 2022.05 ~ 2022.12
@@ -90,7 +95,7 @@
 
 </br>
 
-## [ 2. Network Security Training Course ]</h2></div>
+## [ 2. Network Security Training Course ]</h2>
 #### - 2021.10 ~ 2022.01
 
 </br>
