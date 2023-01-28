@@ -83,7 +83,7 @@
 ### IDS
 <img src="https://img.shields.io/badge/Snort-000000?style=flat-squarelogo=Snort&logoColor=white"> <!--Snort-->
 
-### Team Collabolation Tools
+### Team Collabolation Tool
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"> <!--Git-->
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"> <!--Github-->
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"> <!--Slack-->
