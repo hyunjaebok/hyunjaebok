@@ -13,19 +13,25 @@
 ### 📋 Team Project
 >#### 📌 오픈 소스를 활용한 숙박예약 웹 서비스 개발 및 운영
 >#### - 비용 절감을 하기 위해 오픈 소스를 활용하여, AWS 와 Kubernetes 기반으로 CI/CD 파이프라인 구축한 DevOps 프로젝트
+>#### <b><a href="https://github.com/hyunjaebok/AWeSome_AWS_FinalProject"> - 프로젝트 상세 내용 </a></b>
 
 >#### 📌 AWS 기반 Infra 구축
 >#### - AWS 기반 Infra 구축과 3-Tier 웹 서비스 운영 프로젝트
+>#### <b><a href="https://github.com/hyunjaebok/AWeSome_AWS_3Tier_SemiProject"> - 프로젝트 상세 내용 </a></b>
+
 
 ### 📋 Personal Project
 >#### 📌 Terraform을 활용한 AWS Infra 구축
 >#### - Terraform을 활용한 AWS Infra 구축 및 3-Tier 웹 서비스 운영 프로젝트
+>#### <b><a href="https://github.com/hyunjaebok/AWS_3Tier_Terraform_Project"> - 프로젝트 상세 내용 </a></b>
 
 >#### 📌 AWS EKS 활용한 3-Tier 웹 서비스 운영
 >#### - AWS EKS을 활용한 3-Tier 웹 서비스 운영 및 AWS Infra 구축 프로젝트
+>#### <b><a href="https://github.com/hyunjaebok/AWS_3Tier_EKS_Project"> - 프로젝트 상세 내용 </a></b>
 
 >#### 📌 Azure 기반 Infra 구축
 >#### - ~~~~ 프로젝트
+>#### <b><a href="https://github.com/hyunjaebok/Azure_2Tier_Project"> - 프로젝트 상세 내용 </a></b>
 
 ## [ 2. Network Security Training Course ]</h2>
 ### - 2021.10 ~ 2022.01
