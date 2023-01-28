@@ -5,13 +5,14 @@
  
 <div align=center><h1> 🎓 Education 🎓 </h1></div>
 
-## [ 1. BespinGlobal Techcenter Cloud engineer training course]
+## [ 1. BespinGlobal Techcenter Cloud engineer training course ]
 ### <b><a href="https://github.com/hyunjaebok/BespinGlobal-Techcenter-Cloud-engineer-training-course">- Stack & Projects</a></b>
 
-</br></br>
+</br>
 
-<h2>[ 2. Network Security Training Course - 2021.10 ~ 2022.01 ]</h2></div>
+## [ 2. Network Security Training Course ]</h2></div>
 
+ - 2021.10 ~ 2022.01 
 ## 🛠 Stack
 #### OS
 <img src="https://img.shields.io/badge/Kali Linux-557C94?style=for-the-badge&logo=Kali Linux&logoColor=white"> <!--Kali Linux-->
