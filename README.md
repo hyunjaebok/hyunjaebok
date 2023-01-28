@@ -6,37 +6,9 @@
 <div align=center><h1> 🎓 Education 🎓 </h1></div>
 
 ## [ 1. BespinGlobal Techcenter Cloud engineer training course ]
-### <b><a href="https://github.com/hyunjaebok/BespinGlobal-Techcenter-Cloud-engineer-training-course">- Stack & Projects</a></b>
+### <b><a href="https://github.com/hyunjaebok/BespinGlobal-Techcenter-Cloud-engineer-training-course">- Stack & Project</a></b>
 
 </br>
 
 ## [ 2. Network Security Training Course ]</h2></div>
-
- - 2021.10 ~ 2022.01 
-## 🛠 Stack
-#### OS
-<img src="https://img.shields.io/badge/Kali Linux-557C94?style=for-the-badge&logo=Kali Linux&logoColor=white"> <!--Kali Linux-->
-<img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white"> <!--CentOS-->
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"> <!--Ubuntu-->
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"> <!--Windows-->
-
-#### Container
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <!--Docker-->
-
-#### Container Orchestration
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"> <!--K8S-->
-
-#### Monitoring
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white"> <!--Elasticsearch-->
-<img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=Logstash&logoColor=white"> <!--Logstash-->
-<img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white"> <!--Kibana-->
-
-#### NIPS & NIDS
-<img src="https://img.shields.io/badge/Snort-000000?style=for-the-badge&logo=Snort&logoColor=white"> <!--Snort-->
-
-</br>
-
-## 👨‍💻 Project
-### < Team Project >
-### 📌 ~~~~
-### - ~~~ 프로젝트
+### <b><a href="https://github.com/hyunjaebok/Network-Security-Training-Course">- Stack & project</a></b>
