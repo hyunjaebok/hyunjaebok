@@ -44,8 +44,7 @@
 <img src="https://img.shields.io/badge/Fluentd-0E83C8?style=for-the-badge&logo=Fluentd&logoColor=white"> <!--Fluentd-->
 <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white"> <!--Kibana-->
 
-#### IaC
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white"> <!--Terraform-->
+#### IaC : <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white"> <!--Terraform-->
 
 #### IDE
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> <!--VSCode-->
