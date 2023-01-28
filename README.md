@@ -11,7 +11,7 @@
 
 <h2> 🛠 Stack </h2>
 
-#### CSP : <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square-square&logo=Amazon AWS&logoColor=white"> <!--AWS-->
+### CSP : <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square-square&logo=Amazon AWS&logoColor=white"> <!--AWS-->
 <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=for-the-badge&logo=Microsoft Azure&logoColor=white"> <!--Azure-->
 
 #### OS
