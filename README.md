@@ -77,6 +77,10 @@
 <img src="https://img.shields.io/badge/Fluentd-0E83C8?style=flat-square&logo=Fluentd&logoColor=white"> <!--Fluentd-->
 <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white"> <!--Kibana-->
 
+### Service Mesh
+<img src="https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=Istio&logoColor=white"> <!--Istio-->
+<img src="https://img.shields.io/badge/kiali-466BB0?style=flat-square&logo=kiali&logoColor=white"> <!--kiali-->
+
 ### IaC
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white"> <!--Terraform-->
 
