@@ -35,6 +35,7 @@
 
 ## [ 2. Network Security Training Course ]</h2>
 ### - 2021.10 ~ 2022.01
+### - Basic learning of Network, Linux, Docker, k8s, Network & System & Web hacking and security, Security Solution, etc..
 
 ### 📋 Team Project
 >#### 📌 ELK를 이용한 웹 해킹 로그 패턴 분석과 시각화
