@@ -39,6 +39,7 @@
 ### 📋 Team Project
 >#### 📌 ELK를 이용한 웹 해킹 로그 패턴 분석과 시각화
 >#### - Snort를 이용한 로그 탐지 및 ELK를 이용한 웹 해킹 로그 패턴 분석과 시각화 프로젝트
+>#### <b><a href="https://github.com/hyunjaebok/Snort_ELK_Project"> - 프로젝트 상세 내용 </a></b>
 
 </br>
 
