@@ -30,7 +30,7 @@
 >#### <b><a href="https://github.com/hyunjaebok/AWS_3Tier_EKS_Project"> - 프로젝트 상세 내용 </a></b>
 
 >#### 📌 Azure 기반 Infra 구축
->#### - ~~~~ 프로젝트
+>#### - Azure 기반 Infra 구축과 2-Tier 웹 서비스 운영 프로젝트
 >#### <b><a href="https://github.com/hyunjaebok/Azure_2Tier_Project"> - 프로젝트 상세 내용 </a></b>
 
 ## [ 2. Network Security Training Course ]</h2>
