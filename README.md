@@ -49,8 +49,8 @@
 ### CSP
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"> <!--AWS--> 
 <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=white"> <!--Azure-->
-<img src="https://img.shields.io/badge/Google GCP-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"> <!--gcp-->
-
+<img src="https://img.shields.io/badge/Google GCP-4285F4?style=flat-square&logo&logo=Google Cloud&logoColor=white"> <!--gcp-->
+<img src="https://img.shields.io/badge/Naver NCP-03C75A?style=flat-square&logo&logo=Naver&logoColor=white"> <!--NCP-->
 
 ### OS
 <img src="https://img.shields.io/badge/Amazon Linux 2-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"> <!--amazon linux-->
