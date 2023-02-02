@@ -33,6 +33,10 @@
 >#### - Azure 기반 Infra 구축과 2-Tier 웹 서비스 운영 프로젝트
 >#### <b><a href="https://github.com/hyunjaebok/Azure_2Tier_Project"> - 프로젝트 상세 내용 </a></b>
 
+>#### 📌 NCP 기반 Infra 구축
+>#### - NCP 기반 Infra 구축과 3-Tier 웹 서비스 운영 프로젝트
+>#### <b><a href="https://github.com/hyunjaebok/NCP_3Tier_Project"> - 프로젝트 상세 내용 </a></b>
+
 ## [ 2. Network Security Training Course ]</h2>
 ### - 2021.10 ~ 2022.01
 ### - Basic learning of Network, Linux, Docker, k8s, Network & System & Web hacking and security, etc..
