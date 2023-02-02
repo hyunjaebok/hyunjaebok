@@ -55,7 +55,7 @@
 <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"> <!--CentOS-->
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"> <!--Ubuntu-->
 <img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat-square&logo=Kali Linux&logoColor=white"> <!--Kali Linux-->
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"> <!--Windows-->
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows Server&logoColor=white"> <!--Windows-->
 
 ### Database
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> <!--Mysql-->
