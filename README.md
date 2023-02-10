@@ -112,4 +112,4 @@
 <img src="https://img.shields.io/badge/Drawio-000000?style=flat-square&logo=Drawio&logoColor=white"> <!--Draw.io-->
 
 ---
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FXOXOT&count_bg=%235687E4&title_bg=%23D3D9DC&icon=soundcloud.svg&icon_color=%23E0E0E0&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%234B89DC&title_bg=%23555555&icon=exercism.svg&icon_color=%23E7E7E7&title=Visit&edge_flat=true)](https://hits.seeyoufarm.com)
