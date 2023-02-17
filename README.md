@@ -4,8 +4,12 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=4B89DC&height=250&section=header&text=Jaebok%20Hyun&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62) </div> 
 
-<h1> 🎓 Education </h1>
+# 📝 Certificate
+![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/110655823/219715265-5847782a-ebd9-4a8a-9115-b3f460a99e1f.png)
 
+</br>
+ 
+# 🎓 Education
 ## [ 1. BespinGlobal Techcenter Cloud engineer training course ]
 ### - 2022.05 ~ 2022.12
 ### - Basic learning of Network, Linux, Aws, Azure, GCP, Docker, k8s, Terraform, Jenkins, etc..
@@ -48,8 +52,7 @@
 
 </br>
 
-<h1> 🛠 Stack </h1>
-
+# 🛠 Stack
 ### CSP
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"> <!--AWS--> 
 <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=white"> <!--Azure-->
