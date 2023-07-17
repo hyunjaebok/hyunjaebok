@@ -15,8 +15,8 @@
 ### - Basic learning of Network, Linux, Aws, Azure, GCP, Docker, k8s, Terraform, Jenkins, etc..
 
 ### 📋 Team Project
->#### 📌 오픈 소스를 활용한 숙박예약 웹 서비스 개발 및 운영
->#### - 오픈 소스를 활용하여, AWS와 Kubernetes 기반으로 CI/CD 파이프라인 구축한 DevOps 프로젝트
+>#### 📌 숙박예약 웹 서비스 개발 및 운영
+>#### - AWS와 Kubernetes 기반으로 CI/CD 파이프라인 구축한 DevOps 프로젝트
 >#### <b><a href="https://github.com/hyunjaebok/AWeSome_AWS_FinalProject"> - 프로젝트 상세 내용 </a></b>
 
 >#### 📌 AWS 기반 Infra 구축
